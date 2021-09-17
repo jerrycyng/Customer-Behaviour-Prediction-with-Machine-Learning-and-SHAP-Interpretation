@@ -4,7 +4,7 @@
 The data is related with direct marketing campaigns of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. 
 
 This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
-It can also be downloaded from my github profile.
+
 
 ## Attribute Information
 
