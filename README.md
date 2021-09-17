@@ -6,7 +6,7 @@ For the file'Jerry_SHAP_Introduction', I am trying to explain SHAP in a simple w
 # Project Context
 The data is related with direct marketing campaigns of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. 
 
-This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.
+This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing and you can download it here as well. 
 
 
 ## Attribute Information
