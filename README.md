@@ -1,7 +1,7 @@
 # Customer-Behaviour-Prediction-with-Machine-Learning-and-SHAP-Interpretation
 
 # SHAP Introduction
-I have created the 'Jerry_SHAP_Introduction' with jupyter notebook as python extention. This file has demonstrated the intrepretation algorithum in SHAP and visualized with feature importance and force plot. 
+For the file'Jerry_SHAP_Introduction', I am trying to explain SHAP in a simple way to boost up your basic understandings. The detailed implementation will be demonstrated inside the banking project. 
 
 # Project Context
 The data is related with direct marketing campaigns of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. 
