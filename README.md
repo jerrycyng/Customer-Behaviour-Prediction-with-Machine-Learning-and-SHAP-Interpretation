@@ -1,7 +1,7 @@
 # Customer-Behaviour-Prediction-with-Machine-Learning-and-SHAP-Interpretation
 
 # Project Context
-The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). 
+The data is related with direct marketing campaigns of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. 
 
 This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
@@ -47,4 +47,4 @@ Input variables:
 ### Output variable (desired target):
 17 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-In this project, we will build a model to predict dependent variable from the independent variables. The objective of this project is to make any classification models interpretable. And to understand how and why the model predicts in a certain way.
+In this project, we will build a machine learning model to predict dependent variable from the independent variables. Also, the objective of this project is to interpret the classification model by SHAP(SHapley Additive exPlanations), which is a game theoretic approach to explain the output of any machine learning model. Through this SHAP Interpretation, we can understand how and why the model predicts in a certain way.
