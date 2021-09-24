@@ -52,3 +52,5 @@ Input variables:
 17 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 In this project, we will build a machine learning model to predict dependent variable from the independent variables. Also, the objective of this project is to interpret the classification model by SHAP(SHapley Additive exPlanations), which is a game theoretic approach to explain the output of any machine learning model. Through this SHAP Interpretation, we can understand how and why the model predicts in a certain way.
+
+Creator: Jerry Ng (CityU)
